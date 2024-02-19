@@ -27,6 +27,7 @@ This repository contains the source code for a visually appealing, intuitive, an
 
 3. **Run the Application:**
    ```bash
+   cd GUI-Calendar
    python GUI_Calendar.py
    ```
 
